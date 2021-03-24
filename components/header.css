@@ -1,0 +1,13 @@
+header {
+    position: relative;
+    margin: none;
+}
+
+.header {
+    width: 100%;
+    position: fixed;
+    top: 0;
+    padding-left: 50px;
+    color: white;
+    background-color: black;
+}
